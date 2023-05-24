@@ -34,4 +34,4 @@ I'm always interested in connecting with fellow developers and exploring new opp
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nash981&show_icons=true&theme=dark)
