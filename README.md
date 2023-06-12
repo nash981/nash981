@@ -23,4 +23,5 @@ Please visit my Medium Blog to follow my deep dive into Systems.
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nash981&show_icons=true&theme=dark)
+![GitHub stats](https://img.shields.io/github/followers/nash981?label=Followers&style=social)
+
