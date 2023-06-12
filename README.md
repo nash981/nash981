@@ -22,6 +22,6 @@ Please visit my Medium Blog to follow my deep dive into Systems.
 - **Tools/Technologies**: Linux, Git, Bash, MongoDB
 
 ## 📊 GitHub Stats
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 ![GitHub stats](https://img.shields.io/github/followers/nash981?label=Followers&style=social)
 
