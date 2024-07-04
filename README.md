@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building awesome software and
 
 **NOTE:** The GitHub profile will be undergoing substantial changes in upcoming days to have the most updated projects repositories up. Please be patient and feel free to reach out if you have any questions at athawale.nishant22@gmail.com
 
-Please visit my Personal site to follow my journey https://nishantaa.notion.site/500DaysOfBackEnd-1e902e8db37e4280806f9be0820b7c4c
+Please visit my Personal site to follow my journey https://nishantaa.notion.site/
 ## 🔭 Current Projects
 
 - [Basic Tester](https://github.com/nash981/BasicTester): A basic autograding script
