@@ -11,7 +11,7 @@ Please visit my Personal site to follow my journey https://nishantaa.notion.site
 
 - [Basic Tester](https://github.com/nash981/BasicTester): A basic autograding script
 - [Linux Command Implementation](https://github.com/nash981/LinuxCommandImplementation): Implementation of several basic Linux commands
-- [Multi-Cycle CPU Simulator](https://github.com/nash981/MultiCycleCPU): Multi-Cycle CPU simulator with data forwarding and stalling
+- [Http Server](https://github.com/nash981/httpServer): Http Server with GET PUT and POST support
 
 ## 🌱 Tech Stack
 
