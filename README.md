@@ -6,9 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building awesome software and
 
 **NOTE:** The GitHub profile will be undergoing substantial changes in upcoming days to have the most updated projects repositories up. Please be patient and feel free to reach out if you have any questions at athawale.nishant22@gmail.com
 
-Please visit my Medium Blog to follow my deep dive into Systems.
-[The Systems Guy](https://medium.com/the-systems-guy)
-
+Please visit my Personal site to follow my journey https://nishantaa.notion.site/500DaysOfBackEnd-1e902e8db37e4280806f9be0820b7c4c
 ## 🔭 Current Projects
 
 - [Basic Tester](https://github.com/nash981/BasicTester): A basic autograding script
@@ -17,11 +15,8 @@ Please visit my Medium Blog to follow my deep dive into Systems.
 
 ## 🌱 Tech Stack
 
-- **Languages**: Python, Java, C, JavaScript
-- **Frameworks/Libraries**: React, NodeJS, ExpressJS
-- **Tools/Technologies**: Linux, Git, Bash, MongoDB
+- **Languages**: Java, Python, C/C++/C#, JavaScript, Go, SQL
+- **Frameworks/Libraries**: Node.js, Flask, JUnit, JavaFX, Agile, gRPC
+- **Tools/Technologies**: Git, UNIX, Bash, Kubernetes, Docker, GitHub Actions(CI/CD), AWS
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![GitHub stats](https://img.shields.io/github/followers/nash981?label=Followers&style=social)
 
